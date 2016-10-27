@@ -6,18 +6,18 @@ Direct3D:
     Vendor:   Intel
     VRAM:     128 MB
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\motoki\Documents\My Web Sites\Unity-demo\sample_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\motoki\Documents\My Web Sites\Unity-demo\sample_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\motoki\Documents\My Web Sites\Unity-demo\sample_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\motoki\Documents\My Web Sites\Unity-demo\sample_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\motoki\Documents\My Web Sites\Unity-demo\sample_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\motoki\Documents\My Web Sites\Unity-demo\sample_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.092 seconds
+Platform assembly: C:\Users\motoki\Documents\My Web Sites\Unity-demo2\sample_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\motoki\Documents\My Web Sites\Unity-demo2\sample_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\motoki\Documents\My Web Sites\Unity-demo2\sample_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\motoki\Documents\My Web Sites\Unity-demo2\sample_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\motoki\Documents\My Web Sites\Unity-demo2\sample_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\motoki\Documents\My Web Sites\Unity-demo2\sample_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  2.218 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
-Platform assembly: C:\Users\motoki\Documents\My Web Sites\Unity-demo\sample_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\motoki\Documents\My Web Sites\Unity-demo\sample_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\motoki\Documents\My Web Sites\Unity-demo2\sample_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\motoki\Documents\My Web Sites\Unity-demo2\sample_Data\Managed\System.dll (this message is harmless)
 The referenced script on this Behaviour is missing!
  
 (Filename:  Line: 1713)
@@ -49,4 +49,4 @@ The referenced script on this Behaviour is missing!
 Shader 'Hidden/TerrainEngine/Splatmap/Specular-Base': fallback shader 'Legacy Shaders/Specular' not found
 Shader 'Hidden/TerrainEngine/Splatmap/Specular-Base': fallback shader 'Legacy Shaders/Specular' not found
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 19d4 -> priority: 1 
+  Thread -> id: 320 -> priority: 1 
