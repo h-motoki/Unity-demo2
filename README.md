@@ -1,5 +1,5 @@
 # Unity-demo2
-<small>※Unity-demo版は一部ライブラリーがDMCAに引っかかってしまったので変更しました。<small><br>
+※Unity-demoは一部ライブラリーがDMCAに引っかかってしまったので変更しました。<br>
 <br>
 Unityポートフォリオ作品です。<br>
 動作確認は以下の手順にてお願いします。<br>
