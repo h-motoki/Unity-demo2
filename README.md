@@ -3,9 +3,9 @@ Unityポートフォリオ作品です。<br>
 動作確認は以下の手順にてお願いします。<br>
 <br>
 <b><<実行手順>></b><br>
-1.https://github.com/h-motoki/Unity-demo2上のClone or downloadを押下<br>
+1.https://github.com/h-motoki/Unity-demo2ページ上の「Clone or download」を押下<br>
 2.
-Clone or downloadを押下後、Download ZIPを選択<br>
+「Clone or download」を押下後、「Download ZIP」を選択<br>
 3.ダウンロードした「Unity-demo2-master.zip」を解凍<br>
 4.解凍したフォルダのUnity-demo2-master\Unity-demo\に移動<br>
 5.sample.exeを実行<br>
